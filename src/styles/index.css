@@ -10,3 +10,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.cajaTop{
+    height: 10vw;
+    width: 1vw;
+    background-color: black;
+}
+
+.lightBox{
+    background-color: grey;
+    
+}
+
+.active{
+    box-shadow: 0 0 600px 0 yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.alturaCirculo{
+    aspect-ratio: 1 / 1;
+}
